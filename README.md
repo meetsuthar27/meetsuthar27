@@ -32,6 +32,15 @@
 
 ---
 
+## Top Languages
+
+<a href="https://github.com/meetsuthar27">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetsuthar27&layout=compact&theme=gotham&card_width=720" />
+</a>
+
+---
+
+
 ## 🎯 Fun Facts & Quirks
 
 - **Code & Grooves**: When the coding vibes kick in, I turn up the timeless tunes of [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y)! 🎶💻
@@ -45,11 +54,6 @@
 - [Twitter](https://twitter.com/meetsuthar) 🐦
 - [Instagram](https://instagram.com/meetsuthar) 📸
 
----
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeetSuthar&layout=compact&theme=radical)
-
----
 
 > "Keep calm and code on!" 😎
 
