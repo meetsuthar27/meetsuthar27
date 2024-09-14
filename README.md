@@ -50,9 +50,9 @@
 
 ## 📫 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/meetsuthar) 🌐
-- [Twitter](https://twitter.com/meetsuthar) 🐦
-- [Instagram](https://instagram.com/meetsuthar) 📸
+- [LinkedIn](https://www.linkedin.com/in/meet-suthar-03126a257) 🌐
+- [Twitter](https://x.com/meet_psd) 🐦
+- [Instagram](https://instagram.com/sevenite.graphics) 📸
 
 
 > "Keep calm and code on!" 😎
