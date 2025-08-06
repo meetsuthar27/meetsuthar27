@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&weight=700&pause=600&width=435&lines=Hello!;I'm+Meet+Suthar;Aspiring+Frontend+Developer;Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&weight=700&pause=600&width=435&lines=Hello!;I'm+Meet+Suthar;Frontend+Developer;Designer)](https://git.io/typing-svg)
 
 🌍 Hailing from the vibrant and joyful city of Ahmedabad, India, I'm on a mission to gain great skills in development while pursuing my B.Tech in Computer Science Engineering at Ahmedabad University (2022-2026).
 
@@ -51,7 +51,7 @@
 ## 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/meet-suthar-03126a257) 🌐
-- [Twitter](https://x.com/meet_psd) 🐦
+- [Twitter](https://x.com/meeeetsuthar) 🐦
 - [Instagram](https://instagram.com/sevenite.graphics) 📸
 
 
