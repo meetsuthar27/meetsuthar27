@@ -51,8 +51,6 @@
 ## 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/meet-suthar-03126a257) 🌐
-- [Twitter](https://x.com/meeeetsuthar) 🐦
-- [Instagram](https://instagram.com/sevenite.graphics) 📸
 
 
 > "Keep calm and code on!" 😎
